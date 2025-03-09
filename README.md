@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- <br>- 📚 I'm currently learning HTML<br>- ⚡ In my free time I Try And Run Linux On Old Laptops</p>
+<p align="left">I'm Sombrechip<br><br>- <br>- 📚 I'm currently learning HTML<br>- ⚡ In my free time I Try And Run Linux On Old Laptops</p>
 
 ###
 
