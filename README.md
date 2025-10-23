@@ -28,9 +28,15 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sombrechip88244&show_icons=true&locale=en&layout=compact" alt="sombrechip88244" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sombrechip88244&show_icons=true&locale=en" alt="sombrechip88244" /></p>
+<!-- Copy-paste in your Readme.md file -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sombrechip88244&" alt="sombrechip88244" /></p>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=12960671" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @634750802" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=12960671&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
