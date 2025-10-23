@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Somberchip</h1>
+<h1 align="center">Hi 👋, I'm Sombrechip</h1>
 <h3 align="center">A student which works on the odd programming project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sombrechip88244&label=Profile%20views&color=0e75b6&style=flat" alt="sombrechip88244" /> </p>
 
-- 🔭 I’m currently working on [XVIM](https://github.com/Sombrechip88244/xvim)
+- 🔭 I’m currently working on [tempura.nvim](https://github.com/Sombrechip88244/tempura.nvim)
 
 - 🌱 I’m currently learning **JS,Docker,**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://codebites.bearblog.dev/](https://codebites.bearblog.dev/)
 
-- 💬 Ask me about **Linux**
+- 💬 Ask me about **Linux** and **Neovim**
 
 - 📄 Know about my experiences [https://github.com/Sombrechip88244](https://github.com/Sombrechip88244)
 
